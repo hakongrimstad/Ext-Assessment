@@ -1,4 +1,4 @@
 ---
-title: Visma Partner Extenstion assessments
+title: Visma Partner Extensions assessments
 ---
 
